@@ -1,7 +1,7 @@
 # TutorFinder
 This is a project with Android Application, MySQL and PHP
 
-This project is designed for high school to find there tutor.
+This project is designed for high school to find theie tutor.
 
 # Description
 
