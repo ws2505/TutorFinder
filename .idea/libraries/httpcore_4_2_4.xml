@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="httpcore-4.2.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/httpcomponents-client-4.2.5/lib/httpcore-4.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

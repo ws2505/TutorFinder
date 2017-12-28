@@ -1,0 +1,730 @@
+[
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_red_bg.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_red_bg.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_transparentblue_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_transparentblue_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_dot1_1.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_dot1_1.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_textredcolor_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_textredcolor_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_navbar_back_white_selecter.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_navbar_back_white_selecter.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_share_icon_friends_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_share_icon_friends_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_btn_send_default_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_btn_send_default_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_yellow_radius.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_yellow_radius.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_checkbox4_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_checkbox4_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_award_text_color_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_award_text_color_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_dot2_w.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_dot2_w.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_input_blue.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_input_blue.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_dot1_w.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_dot1_w.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/fun_bbs_btn_share_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/fun_bbs_btn_share_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/register_camera_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/register_camera_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/item_bg_pressed.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/item_bg_pressed.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_btn_focus_selected_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_btn_focus_selected_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/tabbar_profile_normal_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/tabbar_profile_normal_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_red_nocorner.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_red_nocorner.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/tabbar_profile_selected_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/tabbar_profile_selected_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_narbar_setting_white_selecter.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_narbar_setting_white_selecter.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/indicator_corner_bg.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/indicator_corner_bg.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_textgray_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_textgray_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/wheel_bg.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/wheel_bg.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_blue_bg.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_blue_bg.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_pay_bg_gray.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_pay_bg_gray.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_graybutton_selected.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_graybutton_selected.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/lbs_my_location_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/lbs_my_location_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/tabbar_home_selected_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/tabbar_home_selected_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_input_gray.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_input_gray.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_navbar_save_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_navbar_save_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/red_package_share_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/red_package_share_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_textwhite_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_textwhite_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_dot2_2.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_dot2_2.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_icon_about_alipay_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_icon_about_alipay_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_function_icon_bg_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_function_icon_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/divider.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/divider.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_award_vertical_divider.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_award_vertical_divider.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_textcolor3_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_textcolor3_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/item_bg_normal.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/item_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_navbar_cancel2_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_navbar_cancel2_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_share_icon_qq_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_share_icon_qq_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_checkbox_round_checked.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_checkbox_round_checked.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_im_chat_emoji_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_im_chat_emoji_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_search_bg.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_search_bg.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/progress_horizontal.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/progress_horizontal.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_whitebtn_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_whitebtn_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_narbar_send_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_narbar_send_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_input_white.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_input_white.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_btn_remind_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_btn_remind_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_award_get_money_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_award_get_money_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_narbar_share_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_narbar_share_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/common_chat_time.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/common_chat_time.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_checkbox_round.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_checkbox_round.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_boy_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_boy_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_checkbox_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_checkbox_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/dot_focused.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/dot_focused.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_yellow_radius_selected.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_yellow_radius_selected.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_checkbox_round_gray.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_checkbox_round_gray.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_text_checkbox2.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_text_checkbox2.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/search_bar_btn_clear_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/search_bar_btn_clear_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/progress_dialog_bg.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/progress_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_round_gray.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_round_gray.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/progress_bar_style.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/progress_bar_style.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/item_bg_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/item_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/layer_list_ratingrar.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/layer_list_ratingrar.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/date_btn_pressed_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/date_btn_pressed_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/register_example_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/register_example_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_bulebutton_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_bulebutton_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_dash_bg.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_dash_bg.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_solidbutton_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_solidbutton_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_rectangle.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_rectangle.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_btn_map_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_btn_map_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_award_text_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_award_text_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/tabbar_job_selected_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/tabbar_job_selected_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_navbar_cancel_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_navbar_cancel_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_round.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_round.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_card_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_card_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_checkbox3_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_checkbox3_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/register_btn_avatar_add_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/register_btn_avatar_add_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_navbar_search_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_navbar_search_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_text3_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_text3_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_switchbtn_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_switchbtn_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_yellow_radius_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_yellow_radius_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_navbar_sequence_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_navbar_sequence_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_textcolor4_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_textcolor4_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/tabbar_parttime_normal_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/tabbar_parttime_normal_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_navbar_black_cancel_selectoer.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_navbar_black_cancel_selectoer.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_rotate_shape.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_rotate_shape.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_textcolor2_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_textcolor2_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_navbar_collect_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_navbar_collect_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/btn_student_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/btn_student_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_text_checkbox.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_text_checkbox.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/fun_bbs_btn_like_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/fun_bbs_btn_like_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_girl_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_girl_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_cursor_vertical_divider.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_cursor_vertical_divider.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/home_fuction_icon_notice_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/home_fuction_icon_notice_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_head_bg.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_head_bg.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_dot2.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_dot2.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_white_bg.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_white_bg.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_pay_bg.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_pay_bg.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/introduction_btn_enter_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/introduction_btn_enter_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_im_chat_send_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_im_chat_send_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_textblue_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_textblue_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/fun_bbs_btn_comment_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/fun_bbs_btn_comment_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_purple_bg.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_purple_bg.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_narbar_add_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_narbar_add_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/progressbar.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/progressbar.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_share_icon_sms_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_share_icon_sms_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/free_time_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/free_time_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/wheel_val.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/wheel_val.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_red_round.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_red_round.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/tabbar_job_normal_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/tabbar_job_normal_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_navbar_bbs_more_seletcor.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_navbar_bbs_more_seletcor.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/tabbar_home_normal_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/tabbar_home_normal_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_navbar_delete_white_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_navbar_delete_white_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_graysoild_round.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_graysoild_round.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_button_selected2.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_button_selected2.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/fun_bbs_edit_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/fun_bbs_edit_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_popwindow_btn_cancel_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_popwindow_btn_cancel_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_share_icon_qzone_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_share_icon_qzone_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/tabbar_parttime_selected_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/tabbar_parttime_selected_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/dot_normal.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/dot_normal.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_dot1.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_dot1.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_navbar_btn_back_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_navbar_btn_back_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_transparentbutton_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_transparentbutton_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_narbar_more_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_narbar_more_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_checkbox2_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_checkbox2_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_button_selected.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_button_selected.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_textcolor_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_textcolor_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_pointbtn_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_pointbtn_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/layer_list_ratingrar_big.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/layer_list_ratingrar_big.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_share_icon_wechat_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_share_icon_wechat_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_function_gray.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_function_gray.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_award_money_bg.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_award_money_bg.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_navbar_complaint_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_navbar_complaint_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_im_chat_keybord_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_im_chat_keybord_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_runbtn.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_runbtn.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_btn_call_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_btn_call_selector.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_gray_selected.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_gray_selected.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/shake_bg.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/shake_bg.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_yellow_bg.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_yellow_bg.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_function_white.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_function_white.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/drawable/com_btn_focus_selector.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/drawable/com_btn_focus_selector.xml"
+    }
+]

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/wenbo/AndroidStudioProjects/Product/app/libs/httpcomponents-client-4.2.5/lib/httpclient-cache-4.2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="313cfeb950089985994736aa08885711c56b7e1e">
+        <dex dex="/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/pre-dexed/release/httpclient-cache-4.2.5_160918715188de6582983d5a93212277b041569a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wenbo/AndroidStudioProjects/Product/app/libs/httpcomponents-client-4.2.5/lib/httpcore-4.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3b7f38df6de5dd8b500e602ae8c2dd5ee446f883">
+        <dex dex="/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.2.4_a4999d039990269333ce1951af40700d4b82c0f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wenbo/AndroidStudioProjects/Product/app/libs/httpcomponents-client-4.2.5/lib/httpmime-4.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6efc2f9df23c2ac4d3b701a11cab9f9fa6a641d4">
+        <dex dex="/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.2.5_3e6628f0f1f7ab08fa3ebec3fe7b21c8c3393867/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wenbo/AndroidStudioProjects/Product/app/libs/httpcomponents-client-4.2.5/lib/httpclient-cache-4.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="313cfeb950089985994736aa08885711c56b7e1e">
+        <dex dex="/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-cache-4.2.5_160918715188de6582983d5a93212277b041569a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wenbo/AndroidStudioProjects/Product/app/libs/httpcomponents-client-4.2.5/lib/httpclient-4.2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3bfeb9062b12d5b340445336790dbc14c59c2d79">
+        <dex dex="/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/pre-dexed/release/httpclient-4.2.5_ff581f2fcd3ce215a3f720162133718ca7376b58.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wenbo/AndroidStudioProjects/Product/app/libs/httpcomponents-client-4.2.5/lib/commons-codec-1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b7f0fc8f61ecadeb3695f0b9464755eee44374d4">
+        <dex dex="/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-codec-1.6_334161fc9d308e21c05d9290c8572ae2905d78ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wenbo/AndroidStudioProjects/Product/app/libs/httpcomponents-client-4.2.5/lib/httpclient-4.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3bfeb9062b12d5b340445336790dbc14c59c2d79">
+        <dex dex="/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.2.5_ff581f2fcd3ce215a3f720162133718ca7376b58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e5b3add41e2a2b983d3037a2e0092c3e561ea710/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wenbo/AndroidStudioProjects/Product/app/libs/httpcomponents-client-4.2.5/lib/commons-logging-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5043bfebc3db072ed80fbd362e7caf00e885d8ae">
+        <dex dex="/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-logging-1.1.1_0c48223ff2f297a0ced6ff046c605077a08a9c6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c6613618519faf5fcadcb4451f97c44a77dff4ea">
+        <dex dex="/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_827a76bbe3997613a5ef7447f628115c1b969dac/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wenbo/AndroidStudioProjects/Product/app/libs/httpcomponents-client-4.2.5/lib/commons-codec-1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b7f0fc8f61ecadeb3695f0b9464755eee44374d4">
+        <dex dex="/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/pre-dexed/release/commons-codec-1.6_334161fc9d308e21c05d9290c8572ae2905d78ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wenbo/AndroidStudioProjects/Product/app/libs/httpcomponents-client-4.2.5/lib/commons-logging-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5043bfebc3db072ed80fbd362e7caf00e885d8ae">
+        <dex dex="/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/pre-dexed/release/commons-logging-1.1.1_0c48223ff2f297a0ced6ff046c605077a08a9c6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wenbo/AndroidStudioProjects/Product/app/libs/httpcomponents-client-4.2.5/lib/httpmime-4.2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6efc2f9df23c2ac4d3b701a11cab9f9fa6a641d4">
+        <dex dex="/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/pre-dexed/release/httpmime-4.2.5_3e6628f0f1f7ab08fa3ebec3fe7b21c8c3393867.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wenbo/AndroidStudioProjects/Product/app/libs/httpcomponents-client-4.2.5/lib/fluent-hc-4.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7eda2ae9f77415cf92651191e2229eae2caf0b61">
+        <dex dex="/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/transforms/dex/debug/folders/1000/2/fluent-hc-4.2.5_1d38de6962962e33f5b1f29861790c4a60309bb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wenbo/AndroidStudioProjects/Product/app/libs/httpcomponents-client-4.2.5/lib/fluent-hc-4.2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7eda2ae9f77415cf92651191e2229eae2caf0b61">
+        <dex dex="/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/pre-dexed/release/fluent-hc-4.2.5_1d38de6962962e33f5b1f29861790c4a60309bb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wenbo/AndroidStudioProjects/Product/app/libs/httpcomponents-client-4.2.5/lib/httpcore-4.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3b7f38df6de5dd8b500e602ae8c2dd5ee446f883">
+        <dex dex="/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/pre-dexed/release/httpcore-4.2.4_a4999d039990269333ce1951af40700d4b82c0f8.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

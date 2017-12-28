@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/color-v23/abc_tint_switch_track.xml"
+    }
+]

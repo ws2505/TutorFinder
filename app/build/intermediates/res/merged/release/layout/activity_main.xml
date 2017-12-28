@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal"
+    android:weightSum="1"
+    android:orientation="vertical"
+    android:background="@color/app_background">
+    <GridLayout
+        android:layout_width="329dp"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:weightSum="1"
+        android:orientation="vertical">
+
+    <!--  Sample Dashboard screen with Two buttons -->
+    <!--  Button to view all products screen -->
+        <Button
+            android:id="@+id/btnChinese"
+            android:layout_width="65dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dip"
+            android:text="语文" />
+
+        <Button
+            android:id="@+id/btnBiology"
+            android:layout_width="65dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dip"
+            android:text="生物" />
+
+        <Button
+            android:id="@+id/btnHistory"
+            android:layout_width="65dp"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:layout_marginTop="25dip"
+            android:layout_row="1"
+            android:text="历史" />
+
+        <Button
+            android:id="@+id/btnEnglish"
+            android:layout_width="65dp"
+            android:layout_height="wrap_content"
+            android:layout_column="2"
+            android:layout_marginTop="25dip"
+            android:layout_row="0"
+            android:text="英语" />
+
+        <Button
+            android:id="@+id/btnMath"
+            android:layout_width="65dp"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:layout_marginTop="25dip"
+            android:layout_row="0"
+            android:text="数学" />
+
+        <Button
+            android:id="@+id/btnGiology"
+            android:layout_width="65dp"
+            android:layout_height="wrap_content"
+            android:layout_column="2"
+            android:layout_marginTop="25dip"
+            android:layout_row="1"
+            android:text="地理" />
+
+        <Button
+            android:id="@+id/btnChemistry"
+            android:layout_width="65dp"
+            android:layout_height="wrap_content"
+            android:layout_column="4"
+            android:layout_marginTop="25dip"
+            android:layout_row="0"
+            android:text="化学" />
+
+        <Button
+            android:id="@+id/btnAllSubjects"
+            android:layout_width="65dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dip"
+            android:text="全部" />
+
+        <Button
+            android:id="@+id/btnPolitics"
+            android:layout_width="65dp"
+            android:layout_height="wrap_content"
+            android:layout_column="3"
+            android:layout_marginTop="25dip"
+            android:layout_row="1"
+            android:text="政治" />
+
+        <Button
+            android:id="@+id/btnPhysics"
+            android:layout_width="65dp"
+            android:layout_height="wrap_content"
+            android:layout_column="3"
+            android:layout_marginTop="25dip"
+            android:layout_row="0"
+            android:text="物理" />
+
+        <!--  Button to create a new product screen -->
+    </GridLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:weightSum="1"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        </LinearLayout>>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dip"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="80.0dip"
+            android:layout_height="40.0dip"
+            android:layout_alignParentRight="true"
+            android:background="@android:color/transparent"
+            android:gravity="center"
+            android:onClick="onClick"
+            android:text="我的账号"
+            android:textColor="@drawable/com_textcolor_selector"
+            android:textSize="14.0dip" />
+    </RelativeLayout>
+    <!--  Button to Login  -->
+
+ 
+</LinearLayout>

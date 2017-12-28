@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/wenbo/.android/build-cache/d6acca62b59b94a21e518c1c5f61d5162899f278/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/wenbo/.android/build-cache/6631a3d3fa6f5c5de11f4ba80cc78a58b94efe26/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/wenbo/.android/build-cache/60d95ab7672475d221fca57a3f6542c440c73d0b/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/wenbo/.android/build-cache/26cd24011bc47fdb2acd3110f41bab76a44b464d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/wenbo/.android/build-cache/820f9da96501d84eb1af3d34ffa52ab03fa7b8c8/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/wenbo/.android/build-cache/2763aecc69136a6139e3391ca05dec1efbd74084/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/wenbo/.android/build-cache/a5164da27af5b83cd8013efc5f15af3c02224c7b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/wenbo/.android/build-cache/324557340e4f89a52f5f60a5644997a3f9e97d86/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/wenbo/.android/build-cache/345c2b3cb32dd708a156fb0be762074dfec7da32/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:7:15-40
+		INJECTED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:9:5-55:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/wenbo/.android/build-cache/d6acca62b59b94a21e518c1c5f61d5162899f278/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/wenbo/.android/build-cache/6631a3d3fa6f5c5de11f4ba80cc78a58b94efe26/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/wenbo/.android/build-cache/60d95ab7672475d221fca57a3f6542c440c73d0b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/wenbo/.android/build-cache/26cd24011bc47fdb2acd3110f41bab76a44b464d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/wenbo/.android/build-cache/820f9da96501d84eb1af3d34ffa52ab03fa7b8c8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/wenbo/.android/build-cache/2763aecc69136a6139e3391ca05dec1efbd74084/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/wenbo/.android/build-cache/a5164da27af5b83cd8013efc5f15af3c02224c7b/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/wenbo/.android/build-cache/324557340e4f89a52f5f60a5644997a3f9e97d86/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/wenbo/.android/build-cache/345c2b3cb32dd708a156fb0be762074dfec7da32/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:12:9-41
+	android:configChanges
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:10:9-59
+	android:icon
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:11:9-45
+	android:theme
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:13:9-56
+activity#com.example.product.MainActivity
+ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.example.product.ViewActivity
+ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:26:9-29:20
+	android:label
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:28:13-33
+	android:name
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:27:13-41
+activity#com.example.product.RegisterActivity
+ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:32:9-35:20
+	android:label
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:34:13-31
+	android:name
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:33:13-45
+activity#com.example.product.ViewDetailActivity
+ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:38:9-41:20
+	android:label
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:40:13-41
+	android:name
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:39:13-47
+activity#com.example.product.LoginActivity
+ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:46:13-31
+	android:name
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:45:13-42
+activity#com.example.product.LoginActivity2
+ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:50:9-53:20
+	android:label
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:52:13-33
+	android:name
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:51:13-43
+uses-permission#android.permission.INTERNET
+ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:58:5-67
+	android:name
+		ADDED from /Users/wenbo/AndroidStudioProjects/Product/app/src/main/AndroidManifest.xml:58:22-64
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/wenbo/.android/build-cache/d6acca62b59b94a21e518c1c5f61d5162899f278/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/wenbo/.android/build-cache/6631a3d3fa6f5c5de11f4ba80cc78a58b94efe26/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/wenbo/.android/build-cache/60d95ab7672475d221fca57a3f6542c440c73d0b/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/wenbo/.android/build-cache/26cd24011bc47fdb2acd3110f41bab76a44b464d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/wenbo/.android/build-cache/820f9da96501d84eb1af3d34ffa52ab03fa7b8c8/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/wenbo/.android/build-cache/2763aecc69136a6139e3391ca05dec1efbd74084/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/wenbo/.android/build-cache/a5164da27af5b83cd8013efc5f15af3c02224c7b/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/wenbo/.android/build-cache/324557340e4f89a52f5f60a5644997a3f9e97d86/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/AndroidManifest.xml:26:9-47

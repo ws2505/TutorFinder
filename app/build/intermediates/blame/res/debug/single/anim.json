@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/push_left_in.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/push_left_in.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/flay_anim_a.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/flay_anim_a.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/cycle_7.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/cycle_7.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/msp_right_out.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/msp_right_out.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/push_up_out.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/push_up_out.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/msp_left_out.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/msp_left_out.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/shake.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/shake.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/breath_anim.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/breath_anim.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/layout_animation_row_left_slide.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/layout_animation_row_left_slide.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/shake_result_view_in.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/shake_result_view_in.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/mov_up_anim.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/mov_up_anim.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/translate_anim_up.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/translate_anim_up.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/alpha_anim_in.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/alpha_anim_in.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/translate_anim.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/translate_anim.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/slide_left.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/slide_left.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/like_anim.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/like_anim.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/shake_rotate.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/shake_rotate.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/rotate_lr.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/rotate_lr.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/slide_right.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/slide_right.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/alpha_anim.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/alpha_anim.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/mov_down_anim.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/mov_down_anim.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/msp_alpha_out.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/msp_alpha_out.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/alpha_anim_out.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/alpha_anim_out.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/msp_right_in.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/msp_right_in.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/push_left_out.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/push_left_out.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/loading.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/loading.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/rotating.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/rotating.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/flay_anim_b.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/flay_anim_b.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/msp_left_in.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/msp_left_in.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/translate_anim_down.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/translate_anim_down.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/rotate.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/rotate.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/push_up_in.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/push_up_in.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/feature_anim_in.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/feature_anim_in.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/wenbo/.android/build-cache/76e474f0452abdcb39ce6e2d818420d72852d734/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/layout_animation_row_right_slide.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/layout_animation_row_right_slide.xml"
+    },
+    {
+        "merged": "/Users/wenbo/AndroidStudioProjects/Product/app/build/intermediates/res/merged/debug/anim/scale_anim_big.xml",
+        "source": "/Users/wenbo/AndroidStudioProjects/Product/app/src/main/res/anim/scale_anim_big.xml"
+    }
+]
